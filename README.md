@@ -7,4 +7,4 @@
 <br>
 ``.gitconfig``
 <br>
-Neovim Configuration
+### Neovim Configuration
