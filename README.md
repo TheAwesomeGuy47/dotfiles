@@ -3,8 +3,8 @@
 <br>
 ## What is in here
 <br>
-`.bashrc`
+.bashrc
 <br>
-`.gitconfig`
+.gitconfig
 <br>
 ### Neovim Configuration
