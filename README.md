@@ -3,8 +3,9 @@
 <br>
 ## What is in here
 <br>
-.bashrc
+config.fish
 <br>
 .gitconfig
 <br>
 ### Neovim Configuration
+I use a modified version of [NvChad](https://github.com/nvchad/nvchad)
